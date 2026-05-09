@@ -1,1 +1,1 @@
-# Atificial_Intelligence-
+Lê Trọng Nghĩa MSSV: 24110286
