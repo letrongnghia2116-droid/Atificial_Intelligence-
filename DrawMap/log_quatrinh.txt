@@ -1,0 +1,12 @@
+BẮT ĐẦU CHẠY THUẬT TOÁN TÔ MÀU BẢN ĐỒ
+==================================================
+
+Biểu diễn dưới dạng CSP:
+- Biến: {Q1, Q12, QGò Vấp, QBình Thạnh, QTân Bình, QTân Phú, QPhú Nhuận, TP.Thủ Đức, Q3, Q10, Q11, Q4, Q5, Q6, Q8, QBình Tân, Q7, Củ Chi, Hóc Môn, Bình Chánh, Nhà Bè, Cần Giờ}
+- Miền giá trị: {Đỏ nhạt, Xanh lam, Xanh lá, Cam}
+- Ràng buộc: Q1≠QBình Thạnh, Q1≠QPhú Nhuận, Q1≠TP.Thủ Đức, Q1≠Q3, Q1≠Q4, Q1≠Q5, Q12≠QGò Vấp, Q12≠QBình Thạnh, Q12≠QTân Bình, Q12≠QTân Phú, Q12≠QBình Tân, QGò Vấp≠QTân Bình, QGò Vấp≠QPhú Nhuận, QBình Thạnh≠QGò Vấp, QBình Thạnh≠QPhú Nhuận, QBình Thạnh≠TP.Thủ Đức, QTân Bình≠QTân Phú, QPhú Nhuận≠QTân Bình, Q3≠QTân Bình, Q3≠QPhú Nhuận, Q10≠QTân Bình, Q10≠Q3, Q10≠Q11, Q10≠Q5, Q11≠QTân Bình, Q11≠QTân Phú, Q11≠Q5, Q11≠Q6, Q4≠TP.Thủ Đức, Q4≠Q5, Q4≠Q8, Q4≠Q7, Q5≠Q6, Q5≠Q8, Q6≠QTân Phú, Q6≠Q8, Q6≠QBình Tân, Q8≠QBình Tân, QBình Tân≠QTân Phú, Q7≠TP.Thủ Đức, Q7≠Q8, Củ Chi≠Hóc Môn, Hóc Môn≠Q12, Hóc Môn≠QBình Tân, Bình Chánh≠Q8, Bình Chánh≠QBình Tân, Bình Chánh≠Q7, Bình Chánh≠Hóc Môn, Bình Chánh≠Nhà Bè, Nhà Bè≠Q7, Cần Giờ≠Nhà Bè
+
+Áp dụng Backtracking:
+Starting CSP Map Coloring (Paused - Click Start to begin)...
+Algorithm: AC-3 (MAC) + MRV
+Running initial AC-3 Constraint Propagation...
