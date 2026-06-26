@@ -6,3 +6,5 @@
 <img width="962" height="697" alt="UCS" src="https://github.com/user-attachments/assets/1d2104ed-81e9-456a-a9d1-7af8b7f0ec88" />
 <img width="935" height="692" alt="VeBanDo" src="https://github.com/user-attachments/assets/a4872537-8060-48c0-b170-92ec528c6758" />
 <img width="949" height="707" alt="VeBanDo" src="https://github.com/user-attachments/assets/65f69e9b-fd61-4733-be6c-6e0ee67a8ec4" />
+<img width="397" height="608" alt="tictactoe" src="https://github.com/user-attachments/assets/31da1f42-6dc6-4170-b73d-69f03ce27d1a" />
+
